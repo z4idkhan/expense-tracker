@@ -3,5 +3,5 @@ target
 .gitignore
 .idea
 .vscode
-Dockerfile
+../Dockerfile
 README.md
