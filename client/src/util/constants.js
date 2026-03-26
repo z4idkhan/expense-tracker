@@ -1,4 +1,4 @@
 export const AppConstants = {
-    BACKENDURL: 'http://localhost:8080/api/v1.0',
+    BACKENDURL: 'https://expense-tracker-j6ms.onrender.com',
 
 }
